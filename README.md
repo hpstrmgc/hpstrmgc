@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
   <p>
     <img src="https://komarev.com/ghpvc/?username=hpstrmgc&label=Profile%20views&color=brightgreen&style=flat" alt="hpstrmgc" />
     <a href="https://badges.pufler.dev">
