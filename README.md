@@ -17,6 +17,7 @@
 
 <h3 align="center">A passionate Android developer from Bali, Indonesia 🏝️</h3>
 <br>
+
 - 🔭 I’m currently working on **Bangkit Capstone Project**
 
 - 🌱 I’m currently learning **Android Development**
