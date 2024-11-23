@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hpstrmgc&label=Profile%20views&color=brightgreen&style=flat" alt="hpstrmgc" /> </p>
+
 ## Om Swastyastu,
+
 ![Header](https://github.com/user-attachments/assets/7ff52dae-6050-41a7-9864-6d5ee1da7660)
 
 <h3 align="center">A passionate Android developer from Bali, Indonesia 🏝️</h3>
