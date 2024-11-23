@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **wahyuagastyakomang@gmail.com**
 
-- ⚡ Fun fact **I need a gf ASAP 💀**
+- ⚡ Fun fact **I'm single: I need a gf ASAP 💀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
