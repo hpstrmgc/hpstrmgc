@@ -1,3 +1,4 @@
+![Visitor Count](https://profile-counter.glitch.me/{hpstrmgc}/count.svg)
 ![Header](https://github.com/user-attachments/assets/7ff52dae-6050-41a7-9864-6d5ee1da7660)
 ## Hi there 👋
 
