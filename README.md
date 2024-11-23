@@ -1,8 +1,15 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hpstrmgc&label=Profile%20views&color=brightgreen&style=flat" alt="hpstrmgc" /> </p>
+<div align="right">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=hpstrmgc&label=Profile%20views&color=brightgreen&style=flat" alt="hpstrmgc" />
+    <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/repos/hpstrmgc" alt="Repos Badge" />
+    </a>
+    <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/years/hpstrmgc" alt="Years Badge" />
+    </a>
+  </p>
+</div>
 
-[![Repos Badge](https://badges.pufler.dev/repos/hpstrmgc)](https://badges.pufler.dev)
-
-[![Years Badge](https://badges.pufler.dev/years/hpstrmgc)](https://badges.pufler.dev)
 
 ## Om Swastyastu,
 
