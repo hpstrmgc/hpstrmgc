@@ -1,4 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hpstrmgc&label=Profile%20views&color=0e75b6&style=flat" alt="hpstrmgc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hpstrmgc&label=Profile%20views&color=ffffff&style=flat" alt="hpstrmgc" /> </p>
+
 ![Header](https://github.com/user-attachments/assets/7ff52dae-6050-41a7-9864-6d5ee1da7660)
 ## Hi there 👋
 
