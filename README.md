@@ -18,16 +18,6 @@
 <h3 align="center">𝗔 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗳𝗿𝗼𝗺 𝗕𝗮𝗹𝗶, 𝗜𝗻𝗱𝗼𝗻𝗲𝘀𝗶𝗮 🏝️</h3>
 <br>
 
-- 🔭 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 **𝗕𝗮𝗻𝗴𝗸𝗶𝘁 𝗖𝗮𝗽𝘀𝘁𝗼𝗻𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁**
-
-- 🌱 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 **𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁**
-
-- 💬 𝗔𝘀𝗸 𝗺𝗲 𝗮𝗯𝗼𝘂𝘁 **𝗞𝗼𝘁𝗹𝗶𝗻, 𝗔𝗻𝗱𝗿𝗼𝗶𝗱📱, 𝗼𝗿 𝗕𝗮𝗹𝗶 𝗟𝗶𝗳𝗲 😎🏝️**
-
-- 📫 𝗛𝗼𝘄 𝘁𝗼 𝗿𝗲𝗮𝗰𝗵 𝗺𝗲 **wahyuagastyakomang@gmail.com**
-
-- ⚡ 𝗙𝘂𝗻 𝗳𝗮𝗰𝘁 **𝗜'𝗺 𝘀𝗶𝗻𝗴𝗹𝗲: 𝗜 𝗻𝗲𝗲𝗱 𝗮 𝗴𝗳 𝗔𝗦𝗔𝗣 💀**
-
 <h3 align="left">𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wahyuagast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wahyuagast" height="30" width="40" /></a>
