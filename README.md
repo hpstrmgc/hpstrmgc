@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🚨 Perhatian / Attention: Profil Ini Telah Berpindah / This Profile Has Moved
 
-<!--
-**hpstrmgc/hpstrmgc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🇮🇩 Bahasa Indonesia:
 
-Here are some ideas to get you started:
+Halo! Terima kasih telah mengunjungi profil ini.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya telah mengganti username GitHub saya dari **`hpstrmgc`** menjadi **[`wahyuagast`](https://github.com/wahyuagast)**.
+
+Mulai sekarang, semua proyek, aktivitas, dan pembaruan akan tersedia di akun baru saya. Silakan kunjungi:
+
+👉 **[https://github.com/wahyuagast](https://github.com/wahyuagast)**
+
+Terima kasih atas perhatian dan dukungannya!  
+~ Wahyu Agastya
+
+---
+
+## 🇬🇧 English:
+
+Hi! Thank you for visiting this profile.
+
+I’ve changed my GitHub username from **`hpstrmgc`** to **[`wahyuagast`](https://github.com/wahyuagast)**.
+
+From now on, all of my projects, activities, and updates will be available on my new account. Please visit:
+
+👉 **[https://github.com/wahyuagast](https://github.com/wahyuagast)**
+
+Thanks for your attention and support!  
+~ Wahyu Agastya
